@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mapMarker/static/css/main.530ead22.chunk.css",
-    "main.js": "/mapMarker/static/js/main.9c24f647.chunk.js",
-    "main.js.map": "/mapMarker/static/js/main.9c24f647.chunk.js.map",
-    "runtime-main.js": "/mapMarker/static/js/runtime-main.0d7b0d0a.js",
-    "runtime-main.js.map": "/mapMarker/static/js/runtime-main.0d7b0d0a.js.map",
-    "static/js/2.7d516bd3.chunk.js": "/mapMarker/static/js/2.7d516bd3.chunk.js",
-    "static/js/2.7d516bd3.chunk.js.map": "/mapMarker/static/js/2.7d516bd3.chunk.js.map",
-    "static/js/3.fc3e9315.chunk.js": "/mapMarker/static/js/3.fc3e9315.chunk.js",
-    "static/js/3.fc3e9315.chunk.js.map": "/mapMarker/static/js/3.fc3e9315.chunk.js.map",
-    "index.html": "/mapMarker/index.html",
-    "static/css/main.530ead22.chunk.css.map": "/mapMarker/static/css/main.530ead22.chunk.css.map",
-    "static/js/2.7d516bd3.chunk.js.LICENSE.txt": "/mapMarker/static/js/2.7d516bd3.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/mapMarker/static/media/Montserrat-Regular.3cd78665.ttf"
+    "main.css": "/mapMarkers/static/css/main.a3123dd0.chunk.css",
+    "main.js": "/mapMarkers/static/js/main.9c24f647.chunk.js",
+    "main.js.map": "/mapMarkers/static/js/main.9c24f647.chunk.js.map",
+    "runtime-main.js": "/mapMarkers/static/js/runtime-main.748e05a1.js",
+    "runtime-main.js.map": "/mapMarkers/static/js/runtime-main.748e05a1.js.map",
+    "static/js/2.7d516bd3.chunk.js": "/mapMarkers/static/js/2.7d516bd3.chunk.js",
+    "static/js/2.7d516bd3.chunk.js.map": "/mapMarkers/static/js/2.7d516bd3.chunk.js.map",
+    "static/js/3.fc3e9315.chunk.js": "/mapMarkers/static/js/3.fc3e9315.chunk.js",
+    "static/js/3.fc3e9315.chunk.js.map": "/mapMarkers/static/js/3.fc3e9315.chunk.js.map",
+    "index.html": "/mapMarkers/index.html",
+    "static/css/main.a3123dd0.chunk.css.map": "/mapMarkers/static/css/main.a3123dd0.chunk.css.map",
+    "static/js/2.7d516bd3.chunk.js.LICENSE.txt": "/mapMarkers/static/js/2.7d516bd3.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/mapMarkers/static/media/Montserrat-Regular.3cd78665.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d7b0d0a.js",
+    "static/js/runtime-main.748e05a1.js",
     "static/js/2.7d516bd3.chunk.js",
-    "static/css/main.530ead22.chunk.css",
+    "static/css/main.a3123dd0.chunk.css",
     "static/js/main.9c24f647.chunk.js"
   ]
 }
