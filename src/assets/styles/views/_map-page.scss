@@ -1,0 +1,19 @@
+.page-map {
+  .page-map-form {
+    margin: 34px 0px;
+    .page-map-input {
+      width: 300px;
+      border: none;
+      background-color: #d8d8d8;
+      padding: 10px;
+      outline: none;
+    }
+  }
+
+  .page-map-wrong-loc{
+    text-align: center;
+    font-size: rem(22px);
+    color: $clr1;
+    margin-bottom: 34px ;
+  }
+}

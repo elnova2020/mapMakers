@@ -1,0 +1,45 @@
+.appHeader-nav-color {
+  background-color: rgb(200, 228, 228);
+  .appHeader-nav {
+    font-family: "montserrat";
+    h1 {
+      margin: 0px;
+      font-size: rem(50px);
+    }
+
+    .appHeader-nav-links {
+      position: fixed;
+      right: 0;
+      top: 0;
+      height: 100vh;
+      background-color: rgba(240, 255, 255, 0.795);
+      margin: 0;
+      flex-direction: column;
+      align-items: unset;
+      justify-content: unset;
+      @include for-narrow-layout {
+
+      }
+      @include for-normal-layout {
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        right: unset;
+        top: unset;
+        position:unset;
+        background-color: unset;
+        height:unset
+      }
+      a {
+        font-size: rem(22px);
+        margin-left: 50px;
+        color: $clr1;
+        text-decoration: none;
+
+        &:hover {
+          color: $clr4;
+        }
+      }
+    }
+  }
+}
