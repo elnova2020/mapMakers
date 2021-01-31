@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%E2%80%8BmapMarkers.git/static/css/main.f2735f80.chunk.css",
-    "main.js": "/%E2%80%8BmapMarkers.git/static/js/main.9c24f647.chunk.js",
-    "main.js.map": "/%E2%80%8BmapMarkers.git/static/js/main.9c24f647.chunk.js.map",
-    "runtime-main.js": "/%E2%80%8BmapMarkers.git/static/js/runtime-main.b7064e80.js",
-    "runtime-main.js.map": "/%E2%80%8BmapMarkers.git/static/js/runtime-main.b7064e80.js.map",
-    "static/js/2.7d516bd3.chunk.js": "/%E2%80%8BmapMarkers.git/static/js/2.7d516bd3.chunk.js",
-    "static/js/2.7d516bd3.chunk.js.map": "/%E2%80%8BmapMarkers.git/static/js/2.7d516bd3.chunk.js.map",
-    "static/js/3.fc3e9315.chunk.js": "/%E2%80%8BmapMarkers.git/static/js/3.fc3e9315.chunk.js",
-    "static/js/3.fc3e9315.chunk.js.map": "/%E2%80%8BmapMarkers.git/static/js/3.fc3e9315.chunk.js.map",
-    "index.html": "/%E2%80%8BmapMarkers.git/index.html",
-    "static/css/main.f2735f80.chunk.css.map": "/%E2%80%8BmapMarkers.git/static/css/main.f2735f80.chunk.css.map",
-    "static/js/2.7d516bd3.chunk.js.LICENSE.txt": "/%E2%80%8BmapMarkers.git/static/js/2.7d516bd3.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/%E2%80%8BmapMarkers.git/static/media/Montserrat-Regular.3cd78665.ttf"
+    "main.css": "/mapMarker.git/static/css/main.6f06d1bb.chunk.css",
+    "main.js": "/mapMarker.git/static/js/main.9c24f647.chunk.js",
+    "main.js.map": "/mapMarker.git/static/js/main.9c24f647.chunk.js.map",
+    "runtime-main.js": "/mapMarker.git/static/js/runtime-main.52729fae.js",
+    "runtime-main.js.map": "/mapMarker.git/static/js/runtime-main.52729fae.js.map",
+    "static/js/2.7d516bd3.chunk.js": "/mapMarker.git/static/js/2.7d516bd3.chunk.js",
+    "static/js/2.7d516bd3.chunk.js.map": "/mapMarker.git/static/js/2.7d516bd3.chunk.js.map",
+    "static/js/3.fc3e9315.chunk.js": "/mapMarker.git/static/js/3.fc3e9315.chunk.js",
+    "static/js/3.fc3e9315.chunk.js.map": "/mapMarker.git/static/js/3.fc3e9315.chunk.js.map",
+    "index.html": "/mapMarker.git/index.html",
+    "static/css/main.6f06d1bb.chunk.css.map": "/mapMarker.git/static/css/main.6f06d1bb.chunk.css.map",
+    "static/js/2.7d516bd3.chunk.js.LICENSE.txt": "/mapMarker.git/static/js/2.7d516bd3.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/mapMarker.git/static/media/Montserrat-Regular.3cd78665.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7064e80.js",
+    "static/js/runtime-main.52729fae.js",
     "static/js/2.7d516bd3.chunk.js",
-    "static/css/main.f2735f80.chunk.css",
+    "static/css/main.6f06d1bb.chunk.css",
     "static/js/main.9c24f647.chunk.js"
   ]
 }
